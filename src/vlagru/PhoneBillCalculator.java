@@ -8,7 +8,7 @@ public class PhoneBillCalculator {
 
         /*
         * A simple program in Czech calculating a phone bill. There are two of them.
-        * The one in brackets is easier to make compared the one which is not.
+        * The one in brackets is easier to make compared to the one which is not.
         */
 
 

@@ -3,7 +3,7 @@ package vlagru;
 public class Triangle {
 
     public static void main(String[] args) {
-        //A programme generating a triangle
+        //A program generating a triangle
         int i = 9;
         while (i >= 0) {
             int k = i;

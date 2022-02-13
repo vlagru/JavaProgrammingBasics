@@ -6,7 +6,11 @@ public class PhoneBillCalculator {
 
     public static void main(String[] args) {
 
-        //A programme calculating a phone bill
+        /*
+        * A simple program in Czech calculating a phone bill. There are two of them.
+        * The one in brackets is easier to make compared the one which is not.
+        */
+
 
         /*
 
@@ -29,7 +33,7 @@ public class PhoneBillCalculator {
 
 		System.out.println("\n\t\t\tUcet za telefon v poctu provolanych minut je: " + ucetZaTelefon + " Kc");
 
-		*/
+	    */
 
         int mezistatni, mezinarodni;
         double ucet;

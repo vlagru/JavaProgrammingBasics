@@ -26,16 +26,15 @@ public class AnUnusualFormular {
              * ||
              * !
              * && and || nejdou dohromady
-             */
-        {
+             */ {
             System.out.println("Muzes si podat prihlasku.");
 
-        } else
-        {
+        } else {
             System.out.println("Je nam lito, ale nelze si podat prihlasku.");
 
         }
     }
+}
 
 
 

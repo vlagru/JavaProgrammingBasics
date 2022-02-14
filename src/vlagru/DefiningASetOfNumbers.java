@@ -7,7 +7,7 @@ public class DefiningASetOfNumbers {
 
     public static void main(String[] args) {
 
-        // A program in Czech allowing you to define your own set of numbers. Please do omit the notes. They are superficial.
+        // A program in Czech allowing you to define your own set of numbers.
 
         /*
 		//int[] znamky;

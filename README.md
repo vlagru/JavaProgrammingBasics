@@ -1,2 +1,2 @@
 # JavaProgrammingBasics
-List several Java programs by clicking through src/vlagru;
+Java programs created for the mere purpose of practice.

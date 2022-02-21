@@ -36,27 +36,27 @@ public class Calculator {
         Scanner scanner1 = new Scanner(System.in);
         int choice = scanner1.nextInt();
 
-        switch (choice) {
-            case 1 : {
-                System.out.println("Vysledek je: " + sum(a,b));
-                break;
+            switch (choice) {
+                case 1: {
+                    System.out.println("Vysledek je: " + sum(a, b));
+                    break;
+                }
+                case 2: {
+                    System.out.println("Vysledek je: " + sub(a, b));
+                    break;
+                }
+                case 3: {
+                    System.out.println("Vysledek je: " + mul(a, b));
+                    break;
+                }
+                case 4: {
+                    System.out.println("Vysledek je: " + div(a, b));
+                    break;
+                }
+                default: {
+                    System.err.println("Spatne zadana hodnota");
+                }
             }
-            case 2 : {
-                System.out.println("Vysledek je: " + sub(a,b));
-                break;
-            }
-            case 3 : {
-                System.out.println("Vysledek je: " + mul(a,b));
-                break;
-            }
-            case 4 : {
-                System.out.println("Vysledek je: " + div(a,b));
-                break;
-            }
-            default : {
-                System.err.println("Spatne zadana hodnota");
-            }
-        }
 
     }
 }

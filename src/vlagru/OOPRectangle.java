@@ -1,10 +1,10 @@
 package vlagru;
 
-public class Rectangle {
+public class OOPRectangle {
     private int height;
     private int width;
 
-    public Rectangle(int height, int width) {
+    public OOPRectangle(int height, int width) {
         this.height = height;
         this.width = width;
     }

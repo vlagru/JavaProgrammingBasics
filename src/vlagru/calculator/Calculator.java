@@ -1,4 +1,4 @@
-package vlagru;
+package vlagru.calculator;
 
 import java.util.Scanner;
 

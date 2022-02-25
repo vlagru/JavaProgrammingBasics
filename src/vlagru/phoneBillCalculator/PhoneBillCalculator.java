@@ -1,4 +1,4 @@
-package vlagru;
+package vlagru.phoneBillCalculator;
 
 import java.util.Scanner;
 

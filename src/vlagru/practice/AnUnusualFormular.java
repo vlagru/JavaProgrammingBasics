@@ -1,4 +1,4 @@
-package vlagru;
+package vlagru.practice;
 
 import java.util.Scanner;
 

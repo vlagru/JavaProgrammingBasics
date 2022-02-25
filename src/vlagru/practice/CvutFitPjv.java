@@ -1,4 +1,4 @@
-package vlagru;
+package vlagru.practice;
 
 public class CvutFitPjv {
     public static void main(String[] args) {
